@@ -3,7 +3,7 @@ Version:	39729
 Release:	2
 Summary:	MetaPost module with different types of arrow heads
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mparrows
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/mparrows
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mparrows.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/mparrows.doc.r%{version}.tar.xz
